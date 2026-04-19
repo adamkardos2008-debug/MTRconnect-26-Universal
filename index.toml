@@ -126,11 +126,6 @@ hash = "3e565fd0d1381e9b6e45d263fa35c72973155b09b30bc1355748d954ad4a6594"
 metafile = true
 
 [[files]]
-file = "mods/slideshow-fabric.pw.toml"
-hash = "ebde1d750b5a10a97aecfa7f81c331b31c7bbfe921f1c239ce9d5735f5d10d5c"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
@@ -153,16 +148,6 @@ metafile = true
 [[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "47e7e02712eaa87ff476122749d44f5b245c0c64bdb74a97bbe7d069cf96f99f"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "81616d4497a861461df0ef3bb5dc068ac68b89aeff23c0ca5fcbdf1d3be91bd6"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
