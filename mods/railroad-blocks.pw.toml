@@ -1,0 +1,13 @@
+name = "Railroad Blocks"
+filename = "Railroad Blocks 1.20-0.7.0-alpha.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09dff50385251ac2014ee55a95b18a297bdfa84e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7749556
+project-id = 684961

@@ -1,0 +1,13 @@
+name = "Station Decoration"
+filename = "MSD-fabric-1.20.1-4.0.3-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22067cc68c80e6ec93b49f055689e630701e0725"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7672601
+project-id = 790307

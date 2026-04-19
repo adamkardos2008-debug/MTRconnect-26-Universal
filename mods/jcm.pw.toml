@@ -1,0 +1,13 @@
+name = "MTR: JCM"
+filename = "JCM-fabric-2.2.0-beta.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cf3c4713424c30a71d21614ea64feafd9656810"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7921398
+project-id = 1316710

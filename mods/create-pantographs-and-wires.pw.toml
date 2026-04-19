@@ -1,0 +1,14 @@
+name = "Create: Pantographs & Wires"
+filename = "pantographsandwires-fabric-1.20.1-beta-0.1.1.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "9230a639deb2882146e18152f16ddca881fa2fab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7071514
+project-id = 1186908

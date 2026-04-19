@@ -1,0 +1,13 @@
+name = "Decocraft"
+filename = "decocraft-3.0.7-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32ee062a50e8f5440977976eb33ff21b00ee6c68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7366409
+project-id = 79616
