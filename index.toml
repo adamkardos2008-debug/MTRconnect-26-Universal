@@ -1,8 +1,29 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/MTR-ANTE-1.1.0+1.20.1.jar"
+hash = "26ac85617b7c5a58a129ba1b0c57c1a16c95e2fbd1bc9939093aa69e8d6bcd4a"
+
+[[files]]
+file = "mods/MTR-MSD-Addon-fabric-1.20.1-3.2.2-1.3.4-compat.jar"
+hash = "c9c2583c82aa3ee281db7561b89f0b707796d41b563b0b502d589145286a7d52"
+
+[[files]]
+file = "mods/MTR-fabric-1.20-3.2.2-hotfix-1.jar"
+hash = "c3fd8b1542ad45b523e5e09d321bd58e907fca86ea9e552f0d1cd7ff02f1d9c8"
+
+[[files]]
+file = "mods/Metropolis-0.4.0-beta-MTR3.2.2+fabric-1.20.1_20260228.jar"
+hash = "30e36dfdaa069ad14f439bd37618973bb7e78050d024a238e80237c56984edc6"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "8c9e54f0be98da2457242508c94308a0b094ea7cefbc1dbccca4453f527b6e1f"
 metafile = true
 
 [[files]]
@@ -12,17 +33,37 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
+hash = "5d1210ecd8af6eb50c34c5d342c5913f1a7a607ab7029b12b5ee891d1532f8f2"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "2df8c58bab74516d8f6875f752ee2c5660d0814beca540a6ebaee00513092eb1"
+hash = "94a719c6336dce30b5092d4241a49e6739b03959bd59da9babf5b2d22b028890"
 metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "fad57e80024bff9acbe8eade1cfc8605ddf813d8adffaacb3775a1ce017ceb55"
+hash = "15e9e1ca49a9ddb4d3147808fa2d909cece3a04a2a19155bacb797aef3a9d871"
+metafile = true
+
+[[files]]
+file = "mods/decocraft-nature.pw.toml"
+hash = "6ab400169fd7d433d591116ed3be462d476ec02b4c759860710987d49d3ab853"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "6757aeb6361e645918ebee6c05317a2e372b9796e0387a24a2fb50aef7576389"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "1582ba5a232ae4e08643dd86d27c0df64a080b8851837c6dea790c8694145f5c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4e3e31c9ac318718535b6b6d97f2c191140124abefdd72311516ae23c4b4aaef"
 metafile = true
 
 [[files]]
@@ -41,6 +82,15 @@ hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric-1.20.1-4.8.3.jar"
+hash = "6f5d84c8eafd67b911d2a335bacfbe281773dcdb52435c742dd894e21c39df1b"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-fabric.pw.toml"
 hash = "2be6f5e3b9875f96c2744af36b9ddf00e9348c80d3681ce86abad76d47193cb5"
 metafile = true
@@ -51,8 +101,13 @@ hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
+metafile = true
+
+[[files]]
 file = "mods/jcm.pw.toml"
-hash = "15ff88789aa4a9e95194d0601790dd86a40f37f0556559cfc31ec32bacd63e2c"
+hash = "aa42e5dd6d1a30cfcbe18783ce8fc6de933aee5570181c8c8e913fe12654a489"
 metafile = true
 
 [[files]]
@@ -86,13 +141,8 @@ hash = "c28b1208663a79f5fdb2073019f43bdb138cc3395944dacf9b6914b07f83ba7c"
 metafile = true
 
 [[files]]
-file = "mods/metropolis.pw.toml"
-hash = "72162342bb5740d413fd563a346228d1ec058c1e492f2c60a854138efd2cc05a"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "74e039923dbaeca94ce70ac2f960a46479c2b8383733e43dafdcdf8afe07fc1b"
+file = "mods/mishang-urban-construction.pw.toml"
+hash = "7f3305d9dafbb5332eb4be6dbabea79bfd09c3004393d9ae819f49c44228b034"
 metafile = true
 
 [[files]]
@@ -126,13 +176,17 @@ hash = "3e565fd0d1381e9b6e45d263fa35c72973155b09b30bc1355748d954ad4a6594"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+file = "mods/slide-show-pro.pw.toml"
+hash = "a1782198aa1a4039e58a4395532abfa97bf35d6f40c65e37faac9dcb8e6de615"
 metafile = true
 
 [[files]]
-file = "mods/station-decoration.pw.toml"
-hash = "4c7ef7488eaa6f6e801eea79171ea9848eb64c375f4cf0c7aba1847b4ba5a893"
+file = "mods/slideshow_pro-fabric-1.20.1-1.1.0.jar"
+hash = "0534ea6cd398f4d70278b51e5b93e84eeddee666636b1ec472a682c10c5e19a6"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
@@ -141,15 +195,10 @@ hash = "86bea2a4d76eb96331f23dc37985f19a18cdb352a66af4cfbae0cd6e694a4baf"
 metafile = true
 
 [[files]]
-file = "mods/the-tube.pw.toml"
-hash = "639d023259c825f4577bfbe8a439bed15ff07de266fd400786ef5f49b52b9371"
-metafile = true
-
-[[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "47e7e02712eaa87ff476122749d44f5b245c0c64bdb74a97bbe7d069cf96f99f"
+hash = "bd8b39508107cc6ca2814f6ccf04d8cc206c064fc232474c107c96b77187ddf9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "08f38954f91189223a9a0c3d1cf4299a978f0d13e2a96dc178b6770e6bb7c8fb"
+hash = "46344c059fdd779ac92061006dbc44cef4307e011ae312782d05de8f8fd0b3e0"
