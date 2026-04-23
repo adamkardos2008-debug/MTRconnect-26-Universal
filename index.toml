@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/MTR-ANTE-1.1.0+1.20.1.jar"
-hash = "26ac85617b7c5a58a129ba1b0c57c1a16c95e2fbd1bc9939093aa69e8d6bcd4a"
-
-[[files]]
-file = "mods/MTR-MSD-Addon-fabric-1.20.1-3.2.2-1.3.4-compat.jar"
-hash = "c9c2583c82aa3ee281db7561b89f0b707796d41b563b0b502d589145286a7d52"
-
-[[files]]
-file = "mods/MTR-fabric-1.20-3.2.2-hotfix-1.jar"
-hash = "c3fd8b1542ad45b523e5e09d321bd58e907fca86ea9e552f0d1cd7ff02f1d9c8"
-
-[[files]]
-file = "mods/Metropolis-0.4.0-beta-MTR3.2.2+fabric-1.20.1_20260228.jar"
-hash = "30e36dfdaa069ad14f439bd37618973bb7e78050d024a238e80237c56984edc6"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
@@ -45,14 +29,6 @@ metafile = true
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "15e9e1ca49a9ddb4d3147808fa2d909cece3a04a2a19155bacb797aef3a9d871"
 metafile = true
-
-[[files]]
-file = "mods/decocraft-3.0.7-1.20.1-fabric.jar"
-hash = "9f201153f5ffaff8c18af2b1fa153baa531da0bc62510bf2d0f2c292cdcda5b9"
-
-[[files]]
-file = "mods/decocraft-nature-1.0.6-1.20.1-fabric.jar"
-hash = "cad11536cb532744732427a2bfddfdd5caaff28409c0d1fef7b33a5aeaeed45f"
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
@@ -186,4 +162,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "3d54959e0a87d4a0746687589fd0815c5107e272b55a397df77202a58fe8f84b"
+hash = "1966aae5325c39b807eb3ca29484d30bebd72ef4d3a666c232607c9f84b9e693"
