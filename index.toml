@@ -101,6 +101,11 @@ hash = "c28b1208663a79f5fdb2073019f43bdb138cc3395944dacf9b6914b07f83ba7c"
 metafile = true
 
 [[files]]
+file = "mods/metropolis.pw.toml"
+hash = "72162342bb5740d413fd563a346228d1ec058c1e492f2c60a854138efd2cc05a"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "74e039923dbaeca94ce70ac2f960a46479c2b8383733e43dafdcdf8afe07fc1b"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "a032eb1cba6c2f96ec8f82507d44334c8ad6d5160854b47a9fe862554bf0727f"
 metafile = true
 
 [[files]]
