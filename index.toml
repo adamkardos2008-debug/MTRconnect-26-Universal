@@ -71,11 +71,6 @@ hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
 metafile = true
 
 [[files]]
-file = "mods/jcm.pw.toml"
-hash = "aa42e5dd6d1a30cfcbe18783ce8fc6de933aee5570181c8c8e913fe12654a489"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "024cc326cb47b106739b902ec70ecdc8ec550703228fa5574107e071674182cc"
 metafile = true
