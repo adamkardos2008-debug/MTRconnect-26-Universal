@@ -106,6 +106,11 @@ hash = "c28b1208663a79f5fdb2073019f43bdb138cc3395944dacf9b6914b07f83ba7c"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "74e039923dbaeca94ce70ac2f960a46479c2b8383733e43dafdcdf8afe07fc1b"
+metafile = true
+
+[[files]]
 file = "mods/mishang-urban-construction.pw.toml"
 hash = "7f3305d9dafbb5332eb4be6dbabea79bfd09c3004393d9ae819f49c44228b034"
 metafile = true
@@ -156,10 +161,15 @@ hash = "86bea2a4d76eb96331f23dc37985f19a18cdb352a66af4cfbae0cd6e694a4baf"
 metafile = true
 
 [[files]]
+file = "mods/the-tube.pw.toml"
+hash = "639d023259c825f4577bfbe8a439bed15ff07de266fd400786ef5f49b52b9371"
+metafile = true
+
+[[files]]
 file = "mods/trafficcraft.pw.toml"
 hash = "bd8b39508107cc6ca2814f6ccf04d8cc206c064fc232474c107c96b77187ddf9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "d7316abbab1250ee1ba49fa8a2b63864ec502152efd90c6424309442f2776a8e"
+hash = "08f38954f91189223a9a0c3d1cf4299a978f0d13e2a96dc178b6770e6bb7c8fb"
